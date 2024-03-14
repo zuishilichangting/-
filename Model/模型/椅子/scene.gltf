@@ -1,0 +1,422 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 254,
+      "max": [
+        1.2153568267822266,
+        0.2996549606323242,
+        1.3642902374267578
+      ],
+      "min": [
+        -1.2153568267822266,
+        -2.5405523777008057,
+        -2.411383628845215
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3048,
+      "componentType": 5126,
+      "count": 254,
+      "max": [
+        0.7870683073997498,
+        0.9804673194885254,
+        0.9324260354042053
+      ],
+      "min": [
+        -0.7870683073997498,
+        -0.8931675553321838,
+        -0.9892719388008118
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 1116,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 6096,
+      "componentType": 5126,
+      "count": 192,
+      "max": [
+        1.2153568267822266,
+        0.2996549606323242,
+        1.3642902374267578
+      ],
+      "min": [
+        -1.2153568267822266,
+        -2.5405523777008057,
+        -2.411383628845215
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 8400,
+      "componentType": 5126,
+      "count": 192,
+      "max": [
+        0.7870683073997498,
+        0.9804673194885254,
+        0.8647069334983826
+      ],
+      "min": [
+        -0.7870683073997498,
+        -0.7321902513504028,
+        -0.9892719388008118
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 4464,
+      "componentType": 5125,
+      "count": 576,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 10704,
+      "componentType": 5126,
+      "count": 180,
+      "max": [
+        0.7348275780677795,
+        0.7308021187782288,
+        0.10992884635925293
+      ],
+      "min": [
+        -0.7348275780677795,
+        -0.7308021783828735,
+        0.029098648577928543
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 12864,
+      "componentType": 5126,
+      "count": 180,
+      "max": [
+        1.0,
+        0.9945220947265625,
+        0.9872181415557861
+      ],
+      "min": [
+        -1.0,
+        -0.9945220947265625,
+        -0.8753646612167358
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 6768,
+      "componentType": 5125,
+      "count": 1080,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 93,
+      "max": [
+        2.0416667461395264
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 93,
+      "max": [
+        1.1920928955078125e-05,
+        348.2756042480469,
+        -139.32748413085938
+      ],
+      "min": [
+        1.1920928955078125e-05,
+        314.61614990234375,
+        -139.32748413085938
+      ],
+      "type": "VEC3"
+    }
+  ],
+  "animations": [
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 4,
+            "path": "translation"
+          }
+        }
+      ],
+      "name": "lofi_chair",
+      "samplers": [
+        {
+          "input": 9,
+          "interpolation": "LINEAR",
+          "output": 10
+        }
+      ]
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Uriel Bromberg (https://sketchfab.com/UrielBromberg)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/sci-fi-chair-d67bd156478c4b0fac55304ac7b7154f",
+      "title": "SCI-FI CHAIR"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 11088,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 15024,
+      "byteOffset": 11088,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 372,
+      "byteOffset": 26112,
+      "name": "floatBufferViews"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1116,
+      "byteOffset": 26484,
+      "byteStride": 12,
+      "name": "floatBufferViews"
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 27600,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "lofi_chair_base",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.08421123685589735,
+          0.004253463755416182,
+          0.2903871412049429,
+          1.0
+        ],
+        "metallicFactor": 0.8590144647319556,
+        "roughnessFactor": 0.28747818737877656
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0.3121162238400546,
+        1.0,
+        1.0
+      ],
+      "name": "lofi_chair_corners",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.23841074680626806,
+          1.0,
+          0.09818709999999989,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "lofi_chair_lofi_chair_base_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "lofi_chair_lofi_chair_corners_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "lofi_chair_torus_lofi_chair_corners_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "65c3649f308d477da80ce945844a0cea.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "Object_2"
+    },
+    {
+      "children": [
+        4,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5,
+        6
+      ],
+      "name": "lofi_chair",
+      "rotation": [
+        -0.7070379853248596,
+        -0.009862150065600872,
+        -0.009862148202955723,
+        0.7070380449295044
+      ],
+      "scale": [
+        109.96440887451172,
+        100.0,
+        101.19893646240234
+      ],
+      "translation": [
+        1.1920928955078125e-05,
+        341.90191650390625,
+        -139.32748413085938
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "lofi_chair_lofi_chair_base_0"
+    },
+    {
+      "mesh": 1,
+      "name": "lofi_chair_lofi_chair_corners_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": "lofi_chair_torus",
+      "rotation": [
+        -0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071067094802856
+      ],
+      "scale": [
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    {
+      "mesh": 2,
+      "name": "lofi_chair_torus_lofi_chair_corners_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

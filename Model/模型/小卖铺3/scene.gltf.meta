@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: bdc0c4046d03148458eed4286b3e5de2
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\scene.bin"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\scene.bin"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\DefaultMaterial_baseColor.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\DefaultMaterial_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\DefaultMaterial_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\DefaultMaterial_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\DefaultMaterial_emissive.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\DefaultMaterial_emissive.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\DefaultMaterial_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\DefaultMaterial_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\DefaultMaterial_transmission.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\DefaultMaterial_transmission.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\PlasticDoor_baseColor.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\PlasticDoor_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\PlasticDoor_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\PlasticDoor_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\PlasticDoor_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\PlasticDoor_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\Buttons_baseColor.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\Buttons_baseColor.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\Buttons_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\Buttons_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\Buttons_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\Buttons_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\MachineBackground_baseColor.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\MachineBackground_baseColor.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\MachineBackground_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\MachineBackground_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\MachineBackground_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\MachineBackground_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\smallpaper2_baseColor.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\smallpaper2_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\smallpaper2_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\smallpaper2_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\smallpaper2_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\smallpaper2_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\paypayticket_baseColor.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\paypayticket_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\paypayticket_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\paypayticket_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\paypayticket_emissive.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\paypayticket_emissive.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\paypayticket_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\paypayticket_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\paymentbox_baseColor.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\paymentbox_baseColor.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\paymentbox_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\paymentbox_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\paymentbox_emissive.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\paymentbox_emissive.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\paymentbox_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\paymentbox_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\changebox_baseColor.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\changebox_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\changebox_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\changebox_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\changebox_emissive.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\changebox_emissive.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\changebox_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\changebox_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\keypart_baseColor.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\keypart_baseColor.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\keypart_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\keypart_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\keypart_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\keypart_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\MachinePoster_baseColor.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\MachinePoster_baseColor.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\MachinePoster_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\MachinePoster_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\MachinePoster_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\MachinePoster_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\screenbox_baseColor.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\screenbox_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\screenbox_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\screenbox_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\screenbox_emissive.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\screenbox_emissive.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\screenbox_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\screenbox_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\coin_slot_baseColor.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\coin_slot_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\coin_slot_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\coin_slot_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\coin_slot_emissive.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\coin_slot_emissive.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\coin_slot_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\coin_slot_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\tobacco_baseColor.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\tobacco_baseColor.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\tobacco_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\tobacco_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\tobacco_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\tobacco_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\bill_slot_baseColor.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\bill_slot_baseColor.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\bill_slot_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\bill_slot_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\bill_slot_emissive.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\bill_slot_emissive.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\bill_slot_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\bill_slot_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\gutter_baseColor.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\gutter_baseColor.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\gutter_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\gutter_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\gutter_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\gutter_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\Drinks_baseColor.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\Drinks_baseColor.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\Drinks_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\Drinks_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\Drinks_emissive.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\Drinks_emissive.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\Drinks_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\Drinks_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\poster_baseColor.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\poster_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\poster_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\poster_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\poster_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\poster_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\poster2_baseColor.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\poster2_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\poster2_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\poster2_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\poster2_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\poster2_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\poster1_baseColor.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\poster1_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\poster1_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\poster1_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\poster1_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\poster1_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker1_baseColor.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker1_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker1_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker1_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker1_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker1_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker2_baseColor.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker2_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker2_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker2_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker2_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker2_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker5_baseColor.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker5_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker5_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker5_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker5_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker5_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker4_baseColor.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker4_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker4_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker4_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker4_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker4_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker3_baseColor.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker3_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker3_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker3_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker3_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\sticker3_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\monster_sticker_baseColor.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\monster_sticker_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\monster_sticker_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\monster_sticker_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\monster_sticker_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\monster_sticker_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\cardboard_box_01_baseColor.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\cardboard_box_01_baseColor.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\cardboard_box_01_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\cardboard_box_01_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\cardboard_box_01_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\cardboard_box_01_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\wooden_bookshelf_worn_001_baseColor.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\wooden_bookshelf_worn_001_baseColor.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\wooden_bookshelf_worn_001_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\wooden_bookshelf_worn_001_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\wooden_bookshelf_worn_001_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\wooden_bookshelf_worn_001_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\door_poster_baseColor.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\door_poster_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\door_poster_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\door_poster_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\door_poster_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\door_poster_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter2_baseColor.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter2_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter2_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter2_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter2_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter2_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter3_baseColor.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter3_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter3_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter3_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter3_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter3_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter4_baseColor.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter4_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter4_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter4_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter4_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter4_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter1_baseColor.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter1_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter1_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter1_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter1_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter1_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter5_baseColor.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter5_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter5_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter5_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter5_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\doorposter5_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\small_poster_baseColor.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\small_poster_baseColor.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\small_poster_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u5C0F\u5356\u94FA3\\textures\\small_poster_metallicRoughness.png"
+  reportItems:
+  - type: 2
+    code: 31
+    messages: []

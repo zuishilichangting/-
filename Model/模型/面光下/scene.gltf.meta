@@ -1,0 +1,42 @@
+fileFormatVersion: 2
+guid: 3a49b388837e41f429eaad9e95216911
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u9762\u5149\u4E0B\\scene.bin"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u9762\u5149\u4E0B\\scene.bin"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u9762\u5149\u4E0B\\textures\\stage_light_tx_baseColor.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u9762\u5149\u4E0B\\textures\\stage_light_tx_baseColor.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u9762\u5149\u4E0B\\textures\\stage_light_tx_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u9762\u5149\u4E0B\\textures\\stage_light_tx_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u9762\u5149\u4E0B\\textures\\stage_light_tx_emissive.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u9762\u5149\u4E0B\\textures\\stage_light_tx_emissive.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\\u9762\u5149\u4E0B\\textures\\stage_light_tx_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\\u9762\u5149\u4E0B\\textures\\stage_light_tx_normal.png"
+  reportItems: []

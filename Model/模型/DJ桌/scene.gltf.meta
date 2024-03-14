@@ -1,0 +1,116 @@
+fileFormatVersion: 2
+guid: d458201716376f747b16b71c124ea033
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\scene.bin"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\scene.bin"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJControl_baseColor.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJControl_baseColor.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJControl_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJControl_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJControl_emissive.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJControl_emissive.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJControl_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJControl_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJControl02_baseColor.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJControl02_baseColor.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJControl02_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJControl02_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJControl02_emissive.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJControl02_emissive.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJControl02_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJControl02_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DMXController01_baseColor.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DMXController01_baseColor.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DMXController01_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DMXController01_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DMXController01_emissive.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DMXController01_emissive.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DMXController01_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DMXController01_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJMidiKeyboard01_baseColor.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJMidiKeyboard01_baseColor.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJMidiKeyboard01_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJMidiKeyboard01_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJMidiKeyboard01_emissive.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJMidiKeyboard01_emissive.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJMidiKeyboard01_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJMidiKeyboard01_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJTable01_baseColor.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJTable01_baseColor.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJTable01_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJTable01_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJTable01_emissive.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJTable01_emissive.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJTable01_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJTable01_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\Headphones01_baseColor.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\Headphones01_baseColor.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\Headphones01_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\Headphones01_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\Headphones01_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\Headphones01_normal.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJControlHolder01_baseColor.jpeg"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJControlHolder01_baseColor.jpeg"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJControlHolder01_metallicRoughness.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJControlHolder01_metallicRoughness.png"
+  - type: 1
+    originalUri: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJControlHolder01_normal.png"
+    assetPath: "Assets\\Model\\\u6A21\u578B\\DJ\u684C\\textures\\DJControlHolder01_normal.png"
+  reportItems:
+  - type: 0
+    code: 52
+    messages:
+    - 3
+  - type: 0
+    code: 52
+    messages:
+    - 2
